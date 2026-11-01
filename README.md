@@ -126,3 +126,17 @@ The submission ZIP should contain this project code, `.env.example`, `requiremen
 - IDs and pincodes are strings in the source data.
 - The supplied order tool is a synthetic educational mock, not production-grade authentication.
 - Voice audio is not included in the dataset; use your own voice only, and do not record other people without written consent.
+## Project Repository
+
+GitHub: https://github.com/user5w67u/Fenil-VoiceOps
+
+## Project Author
+
+Fenil Ankoliya
+
+## Project Status
+
+The application and automated tests have been run.
+Retrieval evaluation results are documented.
+Full answer evaluation and end-to-end voice testing
+remain pending.
