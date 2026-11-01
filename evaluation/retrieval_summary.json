@@ -1,0 +1,13 @@
+{
+  "dataset_reference_date": "2026-10-20",
+  "question_count": 52,
+  "top_k": 5,
+  "retriever": "Hybrid word/character TF-IDF over current KB sections plus product catalog; superseded documents excluded",
+  "answerable_questions": 47,
+  "answerable_gold_evidence_hit_at_k": 0.766,
+  "answerable_gold_evidence_hits": 36,
+  "mean_reciprocal_rank_on_answerable_questions": 0.4989,
+  "unsupported_questions": 5,
+  "unsupported_questions_with_zero_retrieval_results": 0,
+  "limitations": "Retrieval-only metrics. They do not measure generated answer correctness, refusal quality, conversation handling, or speech quality."
+}
